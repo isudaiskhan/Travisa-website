@@ -136,7 +136,7 @@ const Countries = () => {
         </div>
 
         <div className="flex justify-center mt-12">
-          <button className="bg-[#e02454] hover:bg-[#003A66] text-white py-3.5 px-4 rounded-full md:px-6 lg:px-10 text-lg focus:outline-none transition duration-300 ease-in-out">
+          <button className="flex text-white justify-center gap-2 items-center mx-auto shadow-xl text-lg backdrop-blur-md lg:font-semibold isolation-auto before:absolute before:w-full before:transition-all before:duration-700 before:hover:w-full before:-left-full before:hover:left-0 before:rounded-full before:bg-[#003A66] hover:text-gray-50 before:-z-10 before:aspect-square before:hover:scale-150 before:hover:duration-700 relative z-10 py-4 px-10 overflow-hidden rounded-full bg-[#e02454] group">
             More Countries
           </button>
         </div>

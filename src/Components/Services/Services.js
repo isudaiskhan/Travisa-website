@@ -127,7 +127,7 @@ const Services = () => {
                 <p className="text-center text-gray-400 border-gray-600 border-t py-6 px-4">
                   {card.description}
                 </p>
-                <button className="mt-4 px-10 py-4 bg-[#E02454] rounded-full text-white hover:bg-red-600 transition-colors duration-200">
+                <button className="mt-4 px-10 py-4 bg-[#E02454] rounded-full text-white hover:bg-[#e02453cb] transition-colors duration-200">
                   Explore More
                 </button>
               </div>
